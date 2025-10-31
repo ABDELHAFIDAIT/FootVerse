@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Squad
+Jordan Pickford,eng ENG,GK,30,38,38,"3,420",38.0,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,Everton
+Vitaliy Mykolenko,ua UKR,DF,25,35,35,"3,082",34.2,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,Everton
+Idrissa Gana Gueye,sn SEN,MF,34,37,35,"3,063",34.0,0.0,3.0,3.0,0.0,0.0,0.0,9.0,0.0,Everton
+James Tarkowski,eng ENG,DF,31,33,33,"2,922",32.5,1.0,1.0,2.0,1.0,0.0,0.0,6.0,0.0,Everton
+Abdoulaye Doucouré,ml MLI,MF,31,33,31,"2,564",28.5,3.0,2.0,5.0,3.0,0.0,0.0,5.0,1.0,Everton
+Iliman Ndiaye,sn SEN,FW,24,33,29,"2,430",27.0,9.0,0.0,9.0,7.0,2.0,2.0,3.0,0.0,Everton
+Jarrad Branthwaite,eng ENG,DF,22,30,28,"2,511",27.9,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Everton
+Jack Harrison,eng ENG,FW,27,34,24,"2,076",23.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Everton
+Ashley Young,eng ENG,DF,39,32,19,"1,875",20.8,1.0,3.0,4.0,1.0,0.0,0.0,7.0,1.0,Everton
+Dominic Calvert-Lewin,eng ENG,FW,27,26,19,"1,609",17.9,3.0,1.0,4.0,3.0,0.0,0.0,2.0,0.0,Everton
+James Garner,eng ENG,"MF,DF",23,21,17,"1,594",17.7,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,Everton
+Jake O'Brien,ie IRL,DF,23,20,17,"1,571",17.5,2.0,0.0,2.0,2.0,0.0,0.0,5.0,0.0,Everton
+Beto,gw GNB,FW,26,30,15,"1,534",17.0,8.0,0.0,8.0,8.0,0.0,0.0,2.0,0.0,Everton
+Dwight McNeil,eng ENG,"MF,FW",24,21,15,"1,371",15.2,4.0,6.0,10.0,4.0,0.0,0.0,1.0,0.0,Everton
+Jesper Lindstrøm,dk DEN,FW,24,25,15,"1,239",13.8,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,Everton
+Orel Mangala,be BEL,MF,26,19,14,"1,261",14.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,Everton
+Michael Keane,eng ENG,DF,31,14,11,"1,049",11.7,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,Everton
+Carlos Alcaraz,ar ARG,"FW,MF",21,15,7,764,8.5,2.0,3.0,5.0,2.0,0.0,0.0,4.0,0.0,Everton
+Tim Iroegbunam,eng ENG,MF,21,18,5,574,6.4,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,Everton
+Armando Broja,al ALB,FW,22,10,4,334,3.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Everton
+Nathan Patterson,sct SCO,DF,22,10,3,347,3.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Everton
+Séamus Coleman,ie IRL,DF,35,5,3,215,2.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Everton
+Roman Dixon,eng ENG,DF,19,1,1,90,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Harrison Armstrong,eng ENG,MF,17,3,0,48,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Everton
+Youssef Chermiti,pt POR,"FW,MF",20,4,0,45,0.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Everton
+Mason Holgate,jm JAM,"FW,DF",27,1,0,6,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Callum Bates,eng ENG,MF,18,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Asmir Begović,ba BIH,GK,37,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Coby Ebere,de GER,MF,18,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Isaac Heath,eng ENG,MF,19,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Neal Maupay,fr FRA,"FW,MF",27,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Jenson Metcalfe,eng ENG,MF,19,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Martin Sherif,nl NED,FW,18,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+João Virgínia,pt POR,GK,24,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Reece Welch,eng ENG,DF,20,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
