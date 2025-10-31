@@ -1,0 +1,560 @@
+Date,Time,Comp,Round,Venue,Squad,Opponent,Result,GF,GA
+2024-08-17,15:00,Premier League,Matchweek 1,Home,Arsenal,Wolves,W,2,0
+2024-08-24,17:30,Premier League,Matchweek 2,Away,Arsenal,Aston Villa,W,2,0
+2024-08-31,12:30,Premier League,Matchweek 3,Home,Arsenal,Brighton,D,1,1
+2024-09-15,14:00,Premier League,Matchweek 4,Away,Arsenal,Tottenham,W,1,0
+2024-09-19,21:00 ,Champions Lg,League phase,Away,Arsenal,it Atalanta,D,0,0
+2024-09-22,16:30,Premier League,Matchweek 5,Away,Arsenal,Manchester City,D,2,2
+2024-09-25,19:45,EFL Cup,Third round,Home,Arsenal,Bolton,W,5,1
+2024-09-28,15:00,Premier League,Matchweek 6,Home,Arsenal,Leicester City,W,4,2
+2024-10-01,20:00,Champions Lg,League phase,Home,Arsenal,fr Paris S-G,W,2,0
+2024-10-05,15:00,Premier League,Matchweek 7,Home,Arsenal,Southampton,W,3,1
+2024-10-19,17:30,Premier League,Matchweek 8,Away,Arsenal,Bournemouth,L,0,2
+2024-10-22,20:00,Champions Lg,League phase,Home,Arsenal,ua Shakhtar,W,1,0
+2024-10-27,16:30 ,Premier League,Matchweek 9,Home,Arsenal,Liverpool,D,2,2
+2024-10-30,19:45 ,EFL Cup,Fourth round,Away,Arsenal,Preston,W,3,0
+2024-11-02,12:30 ,Premier League,Matchweek 10,Away,Arsenal,Newcastle Utd,L,0,1
+2024-11-06,21:00,Champions Lg,League phase,Away,Arsenal,it Inter,L,0,1
+2024-11-10,16:30 ,Premier League,Matchweek 11,Away,Arsenal,Chelsea,D,1,1
+2024-11-23,15:00 ,Premier League,Matchweek 12,Home,Arsenal,Nott'ham Forest,W,3,0
+2024-11-26,20:00 ,Champions Lg,League phase,Away,Arsenal,pt Sporting CP,W,5,1
+2024-11-30,17:30 ,Premier League,Matchweek 13,Away,Arsenal,West Ham,W,5,2
+2024-12-04,20:15 ,Premier League,Matchweek 14,Home,Arsenal,Manchester Utd,W,2,0
+2024-12-08,14:00 ,Premier League,Matchweek 15,Away,Arsenal,Fulham,D,1,1
+2024-12-11,20:00 ,Champions Lg,League phase,Home,Arsenal,fr Monaco,W,3,0
+2024-12-14,15:00 ,Premier League,Matchweek 16,Home,Arsenal,Everton,D,0,0
+2024-12-18,19:30 ,EFL Cup,Quarter-finals,Home,Arsenal,Crystal Palace,W,3,2
+2024-12-21,17:30 ,Premier League,Matchweek 17,Away,Arsenal,Crystal Palace,W,5,1
+2024-12-27,20:15 ,Premier League,Matchweek 18,Home,Arsenal,Ipswich Town,W,1,0
+2025-01-01,17:30 ,Premier League,Matchweek 19,Away,Arsenal,Brentford,W,3,1
+2025-01-04,17:30 ,Premier League,Matchweek 20,Away,Arsenal,Brighton,D,1,1
+2025-01-07,20:00 ,EFL Cup,Semi-finals,Home,Arsenal,Newcastle Utd,L,0,2
+2025-01-12,15:00 ,FA Cup,Third round proper,Home,Arsenal,Manchester Utd,D,1 (3),1 (5)
+2025-01-15,20:00 ,Premier League,Matchweek 21,Home,Arsenal,Tottenham,W,2,1
+2025-01-18,17:30 ,Premier League,Matchweek 22,Home,Arsenal,Aston Villa,D,2,2
+2025-01-22,20:00 ,Champions Lg,League phase,Home,Arsenal,hr Dinamo Zagreb,W,3,0
+2025-01-25,15:00 ,Premier League,Matchweek 23,Away,Arsenal,Wolves,W,1,0
+2025-01-29,21:00,Champions Lg,League phase,Away,Arsenal,es Girona,W,2,1
+2025-02-02,16:30 ,Premier League,Matchweek 24,Home,Arsenal,Manchester City,W,5,1
+2025-02-05,20:00 ,EFL Cup,Semi-finals,Away,Arsenal,Newcastle Utd,L,0,2
+2025-02-15,12:30 ,Premier League,Matchweek 25,Away,Arsenal,Leicester City,W,2,0
+2025-02-22,15:00 ,Premier League,Matchweek 26,Home,Arsenal,West Ham,L,0,1
+2025-02-26,19:30,Premier League,Matchweek 27,Away,Arsenal,Nott'ham Forest,D,0,0
+2025-03-04,21:00 ,Champions Lg,Round of 16,Away,Arsenal,nl PSV Eindhoven,W,7,1
+2025-03-09,16:30,Premier League,Matchweek 28,Away,Arsenal,Manchester Utd,D,1,1
+2025-03-12,20:00,Champions Lg,Round of 16,Home,Arsenal,nl PSV Eindhoven,D,2,2
+2025-03-16,13:30,Premier League,Matchweek 29,Home,Arsenal,Chelsea,W,1,0
+2025-04-01,19:45 ,Premier League,Matchweek 30,Home,Arsenal,Fulham,W,2,1
+2025-04-05,12:30 ,Premier League,Matchweek 31,Away,Arsenal,Everton,D,1,1
+2025-04-08,20:00,Champions Lg,Quarter-finals,Home,Arsenal,es Real Madrid,W,3,0
+2025-04-12,17:30,Premier League,Matchweek 32,Home,Arsenal,Brentford,D,1,1
+2025-04-16,21:00 ,Champions Lg,Quarter-finals,Away,Arsenal,es Real Madrid,W,2,1
+2025-04-20,14:00,Premier League,Matchweek 33,Away,Arsenal,Ipswich Town,W,4,0
+2025-04-23,20:00,Premier League,Matchweek 34,Home,Arsenal,Crystal Palace,D,2,2
+2025-04-29,20:00,Champions Lg,Semi-finals,Home,Arsenal,fr Paris S-G,L,0,1
+2025-05-03,17:30,Premier League,Matchweek 35,Home,Arsenal,Bournemouth,L,1,2
+2025-05-07,21:00 ,Champions Lg,Semi-finals,Away,Arsenal,fr Paris S-G,L,1,2
+2025-05-11,16:30,Premier League,Matchweek 36,Away,Arsenal,Liverpool,D,2,2
+2025-05-18,16:30,Premier League,Matchweek 37,Home,Arsenal,Newcastle Utd,W,1,0
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Arsenal,Southampton,W,2,1
+2024-08-17,17:30,Premier League,Matchweek 1,Away,Aston Villa,West Ham,W,2,1
+2024-08-31,15:00,Premier League,Matchweek 3,Away,Aston Villa,Leicester City,W,2,1
+2024-09-14,17:30,Premier League,Matchweek 4,Home,Aston Villa,Everton,W,3,2
+2024-09-17,18:45 ,Champions Lg,League phase,Away,Aston Villa,ch Young Boys,W,3,0
+2024-09-21,15:00,Premier League,Matchweek 5,Home,Aston Villa,Wolves,W,3,1
+2024-09-24,20:00,EFL Cup,Third round,Away,Aston Villa,Wycombe,W,2,1
+2024-09-29,14:00,Premier League,Matchweek 6,Away,Aston Villa,Ipswich Town,D,2,2
+2024-10-02,20:00,Champions Lg,League phase,Home,Aston Villa,de Bayern Munich,W,1,0
+2024-10-06,14:00,Premier League,Matchweek 7,Home,Aston Villa,Manchester Utd,D,0,0
+2024-10-19,15:00,Premier League,Matchweek 8,Away,Aston Villa,Fulham,W,3,1
+2024-10-22,20:00,Champions Lg,League phase,Home,Aston Villa,it Bologna,W,2,0
+2024-10-26,15:00,Premier League,Matchweek 9,Home,Aston Villa,Bournemouth,D,1,1
+2024-10-30,19:45 ,EFL Cup,Fourth round,Home,Aston Villa,Crystal Palace,L,1,2
+2024-11-03,14:00 ,Premier League,Matchweek 10,Away,Aston Villa,Tottenham,L,1,4
+2024-11-06,18:45,Champions Lg,League phase,Away,Aston Villa,be Club Brugge,L,0,1
+2024-11-09,20:00 ,Premier League,Matchweek 11,Away,Aston Villa,Liverpool,L,0,2
+2024-11-23,15:00 ,Premier League,Matchweek 12,Home,Aston Villa,Crystal Palace,D,2,2
+2024-11-27,20:00 ,Champions Lg,League phase,Home,Aston Villa,it Juventus,D,0,0
+2024-12-01,13:30 ,Premier League,Matchweek 13,Away,Aston Villa,Chelsea,L,0,3
+2024-12-04,20:15 ,Premier League,Matchweek 14,Home,Aston Villa,Brentford,W,3,1
+2024-12-07,15:00 ,Premier League,Matchweek 15,Home,Aston Villa,Southampton,W,1,0
+2024-12-10,21:00,Champions Lg,League phase,Away,Aston Villa,de RB Leipzig,W,3,2
+2024-12-14,17:30 ,Premier League,Matchweek 16,Away,Aston Villa,Nott'ham Forest,L,1,2
+2024-12-21,12:30 ,Premier League,Matchweek 17,Home,Aston Villa,Manchester City,W,2,1
+2024-12-26,15:00 ,Premier League,Matchweek 18,Away,Aston Villa,Newcastle Utd,L,0,3
+2024-12-30,19:45 ,Premier League,Matchweek 19,Home,Aston Villa,Brighton,D,2,2
+2025-01-04,15:00 ,Premier League,Matchweek 20,Home,Aston Villa,Leicester City,W,2,1
+2025-01-10,20:00 ,FA Cup,Third round proper,Home,Aston Villa,West Ham,W,2,1
+2025-01-15,19:30 ,Premier League,Matchweek 21,Away,Aston Villa,Everton,W,1,0
+2025-01-21,18:45,Champions Lg,League phase,Away,Aston Villa,fr Monaco,L,0,1
+2025-01-26,16:30 ,Premier League,Matchweek 23,Home,Aston Villa,West Ham,D,1,1
+2025-01-29,20:00 ,Champions Lg,League phase,Home,Aston Villa,sct Celtic,W,4,2
+2025-02-01,17:30 ,Premier League,Matchweek 24,Away,Aston Villa,Wolves,L,0,2
+2025-02-09,17:35 ,FA Cup,Fourth round proper,Home,Aston Villa,Tottenham,W,2,1
+2025-02-15,15:00 ,Premier League,Matchweek 25,Home,Aston Villa,Ipswich Town,D,1,1
+2025-02-19,19:30 ,Premier League,Matchweek 29,Home,Aston Villa,Liverpool,D,2,2
+2025-02-22,17:30 ,Premier League,Matchweek 26,Home,Aston Villa,Chelsea,W,2,1
+2025-02-25,19:30,Premier League,Matchweek 27,Away,Aston Villa,Crystal Palace,L,1,4
+2025-02-28,20:00,FA Cup,Fifth round proper,Home,Aston Villa,Cardiff City,W,2,0
+2025-03-04,18:45 ,Champions Lg,Round of 16,Away,Aston Villa,be Club Brugge,W,3,1
+2025-03-08,17:30,Premier League,Matchweek 28,Away,Aston Villa,Brentford,W,1,0
+2025-03-12,20:00,Champions Lg,Round of 16,Home,Aston Villa,be Club Brugge,W,3,0
+2025-03-30,13:30 ,FA Cup,Quarter-finals,Away,Aston Villa,Preston,W,3,0
+2025-04-02,19:45 ,Premier League,Matchweek 30,Away,Aston Villa,Brighton,W,3,0
+2025-04-05,17:30 ,Premier League,Matchweek 31,Home,Aston Villa,Nott'ham Forest,W,2,1
+2025-04-09,21:00 ,Champions Lg,Quarter-finals,Away,Aston Villa,fr Paris S-G,L,1,3
+2025-04-12,15:00,Premier League,Matchweek 32,Away,Aston Villa,Southampton,W,3,0
+2025-04-15,20:00,Champions Lg,Quarter-finals,Home,Aston Villa,fr Paris S-G,W,3,2
+2025-04-19,17:30,Premier League,Matchweek 33,Home,Aston Villa,Newcastle Utd,W,4,1
+2025-04-22,20:00,Premier League,Matchweek 34,Away,Aston Villa,Manchester City,L,1,2
+2025-04-26,17:15,FA Cup,Semi-finals,Away,Aston Villa,Crystal Palace,L,0,3
+2025-05-03,12:30,Premier League,Matchweek 35,Home,Aston Villa,Fulham,W,1,0
+2025-05-10,17:30,Premier League,Matchweek 36,Away,Aston Villa,Bournemouth,W,1,0
+2025-05-16,19:30,Premier League,Matchweek 37,Home,Aston Villa,Tottenham,W,2,0
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Aston Villa,Manchester Utd,L,0,2
+2024-08-17,15:00,Premier League,Matchweek 1,Away,Bournemouth,Nott'ham Forest,D,1,1
+2024-08-25,14:00,Premier League,Matchweek 2,Home,Bournemouth,Newcastle Utd,D,1,1
+2024-08-28,19:45,EFL Cup,Second round,Away,Bournemouth,West Ham,L,0,1
+2024-08-31,15:00,Premier League,Matchweek 3,Away,Bournemouth,Everton,W,3,2
+2024-09-14,20:00,Premier League,Matchweek 4,Home,Bournemouth,Chelsea,L,0,1
+2024-09-21,15:00,Premier League,Matchweek 5,Away,Bournemouth,Liverpool,L,0,3
+2024-09-30,20:00,Premier League,Matchweek 6,Home,Bournemouth,Southampton,W,3,1
+2024-10-05,15:00,Premier League,Matchweek 7,Away,Bournemouth,Leicester City,L,0,1
+2024-11-02,15:00 ,Premier League,Matchweek 10,Home,Bournemouth,Manchester City,W,2,1
+2024-11-09,15:00 ,Premier League,Matchweek 11,Away,Bournemouth,Brentford,L,2,3
+2024-11-23,15:00 ,Premier League,Matchweek 12,Home,Bournemouth,Brighton,L,1,2
+2024-11-30,15:00 ,Premier League,Matchweek 13,Away,Bournemouth,Wolves,W,4,2
+2024-12-05,20:15 ,Premier League,Matchweek 14,Home,Bournemouth,Tottenham,W,1,0
+2024-12-08,14:00 ,Premier League,Matchweek 15,Away,Bournemouth,Ipswich Town,W,2,1
+2024-12-16,20:00 ,Premier League,Matchweek 16,Home,Bournemouth,West Ham,D,1,1
+2024-12-22,14:00 ,Premier League,Matchweek 17,Away,Bournemouth,Manchester Utd,W,3,0
+2024-12-26,15:00 ,Premier League,Matchweek 18,Home,Bournemouth,Crystal Palace,D,0,0
+2024-12-29,15:00 ,Premier League,Matchweek 19,Away,Bournemouth,Fulham,D,2,2
+2025-01-04,15:00 ,Premier League,Matchweek 20,Home,Bournemouth,Everton,W,1,0
+2025-01-11,15:00 ,FA Cup,Third round proper,Home,Bournemouth,West Brom,W,5,1
+2025-01-14,19:30 ,Premier League,Matchweek 21,Away,Bournemouth,Chelsea,D,2,2
+2025-01-18,12:30 ,Premier League,Matchweek 22,Away,Bournemouth,Newcastle Utd,W,4,1
+2025-01-25,15:00 ,Premier League,Matchweek 23,Home,Bournemouth,Nott'ham Forest,W,5,0
+2025-02-01,15:00 ,Premier League,Matchweek 24,Home,Bournemouth,Liverpool,L,0,2
+2025-02-08,15:00 ,FA Cup,Fourth round proper,Away,Bournemouth,Everton,W,2,0
+2025-02-15,15:00 ,Premier League,Matchweek 25,Away,Bournemouth,Southampton,W,3,1
+2025-02-22,15:00 ,Premier League,Matchweek 26,Home,Bournemouth,Wolves,L,0,1
+2025-02-25,19:30,Premier League,Matchweek 27,Away,Bournemouth,Brighton,L,1,2
+2025-03-01,15:00,FA Cup,Fifth round proper,Home,Bournemouth,Wolves,D,1 (5),1 (4)
+2025-03-09,14:00,Premier League,Matchweek 28,Away,Bournemouth,Tottenham,D,2,2
+2025-03-15,17:30,Premier League,Matchweek 29,Home,Bournemouth,Brentford,L,1,2
+2025-03-30,16:30 ,FA Cup,Quarter-finals,Home,Bournemouth,Manchester City,L,1,2
+2025-04-02,19:45 ,Premier League,Matchweek 30,Home,Bournemouth,Ipswich Town,L,1,2
+2025-04-05,15:00 ,Premier League,Matchweek 31,Away,Bournemouth,West Ham,D,2,2
+2025-04-14,20:00,Premier League,Matchweek 32,Home,Bournemouth,Fulham,W,1,0
+2025-04-19,15:00,Premier League,Matchweek 33,Away,Bournemouth,Crystal Palace,D,0,0
+2025-04-27,14:00,Premier League,Matchweek 34,Home,Bournemouth,Manchester Utd,D,1,1
+2025-05-20,20:00,Premier League,Matchweek 37,Away,Bournemouth,Manchester City,L,1,3
+2025-05-25,16:00,Premier League,Matchweek 38,Home,Bournemouth,Leicester City,W,2,0
+2024-08-18,14:00,Premier League,Matchweek 1,Home,Brentford,Crystal Palace,W,2,1
+2024-08-25,16:30,Premier League,Matchweek 2,Away,Brentford,Liverpool,L,0,2
+2024-08-28,19:45,EFL Cup,Second round,Away,Brentford,Colchester Utd,W,1,0
+2024-08-31,15:00,Premier League,Matchweek 3,Home,Brentford,Southampton,W,3,1
+2024-09-14,15:00,Premier League,Matchweek 4,Away,Brentford,Manchester City,L,1,2
+2024-09-17,19:45,EFL Cup,Third round,Home,Brentford,Leyton Orient,W,3,1
+2024-09-21,15:00,Premier League,Matchweek 5,Away,Brentford,Tottenham,L,1,3
+2024-09-28,15:00,Premier League,Matchweek 6,Home,Brentford,West Ham,D,1,1
+2024-10-05,15:00,Premier League,Matchweek 7,Home,Brentford,Wolves,W,5,3
+2024-10-19,15:00,Premier League,Matchweek 8,Away,Brentford,Manchester Utd,L,1,2
+2024-10-26,15:00,Premier League,Matchweek 9,Home,Brentford,Ipswich Town,W,4,3
+2024-10-29,20:00 ,EFL Cup,Fourth round,Home,Brentford,Sheffield Weds,D,1 (5),1 (4)
+2024-11-04,20:00 ,Premier League,Matchweek 10,Away,Brentford,Fulham,L,1,2
+2024-11-23,15:00 ,Premier League,Matchweek 12,Away,Brentford,Everton,D,0,0
+2024-11-30,15:00 ,Premier League,Matchweek 13,Home,Brentford,Leicester City,W,4,1
+2024-12-07,15:00 ,Premier League,Matchweek 15,Home,Brentford,Newcastle Utd,W,4,2
+2024-12-15,19:00 ,Premier League,Matchweek 16,Away,Brentford,Chelsea,L,1,2
+2024-12-18,19:45 ,EFL Cup,Quarter-finals,Away,Brentford,Newcastle Utd,L,1,3
+2024-12-21,15:00 ,Premier League,Matchweek 17,Home,Brentford,Nott'ham Forest,L,0,2
+2024-12-27,19:30 ,Premier League,Matchweek 18,Away,Brentford,Brighton,D,0,0
+2025-01-04,15:00 ,Premier League,Matchweek 20,Away,Brentford,Southampton,W,5,0
+2025-01-11,15:00 ,FA Cup,Third round proper,Home,Brentford,Plymouth Argyle,L,0,1
+2025-01-14,19:30 ,Premier League,Matchweek 21,Home,Brentford,Manchester City,D,2,2
+2025-01-18,15:00 ,Premier League,Matchweek 22,Home,Brentford,Liverpool,L,0,2
+2025-01-26,14:00 ,Premier League,Matchweek 23,Away,Brentford,Crystal Palace,W,2,1
+2025-02-02,14:00 ,Premier League,Matchweek 24,Home,Brentford,Tottenham,L,0,2
+2025-02-15,15:00 ,Premier League,Matchweek 25,Away,Brentford,West Ham,W,1,0
+2025-02-21,20:00 ,Premier League,Matchweek 26,Away,Brentford,Leicester City,W,4,0
+2025-02-26,19:30,Premier League,Matchweek 27,Home,Brentford,Everton,D,1,1
+2025-04-02,19:45 ,Premier League,Matchweek 30,Away,Brentford,Newcastle Utd,L,1,2
+2025-04-06,14:00,Premier League,Matchweek 31,Home,Brentford,Chelsea,D,0,0
+2025-04-19,15:00,Premier League,Matchweek 33,Home,Brentford,Brighton,W,4,2
+2025-05-01,19:30,Premier League,Matchweek 34,Away,Brentford,Nott'ham Forest,W,2,0
+2025-05-04,14:00,Premier League,Matchweek 35,Home,Brentford,Manchester Utd,W,4,3
+2025-05-10,15:00,Premier League,Matchweek 36,Away,Brentford,Ipswich Town,W,1,0
+2025-05-18,15:00,Premier League,Matchweek 37,Home,Brentford,Fulham,L,2,3
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Brentford,Wolves,D,1,1
+2024-08-17,15:00,Premier League,Matchweek 1,Away,Brighton,Everton,W,3,0
+2024-08-24,12:30,Premier League,Matchweek 2,Home,Brighton,Manchester Utd,W,2,1
+2024-08-27,19:45,EFL Cup,Second round,Home,Brighton,Crawley Town,W,4,0
+2024-09-14,15:00,Premier League,Matchweek 4,Home,Brighton,Ipswich Town,D,0,0
+2024-09-18,19:45,EFL Cup,Third round,Home,Brighton,Wolves,W,3,2
+2024-09-22,14:00,Premier League,Matchweek 5,Home,Brighton,Nott'ham Forest,D,2,2
+2024-09-28,15:00,Premier League,Matchweek 6,Away,Brighton,Chelsea,L,2,4
+2024-10-06,16:30,Premier League,Matchweek 7,Home,Brighton,Tottenham,W,3,2
+2024-10-19,15:00,Premier League,Matchweek 8,Away,Brighton,Newcastle Utd,W,1,0
+2024-10-26,15:00,Premier League,Matchweek 9,Home,Brighton,Wolves,D,2,2
+2024-10-30,19:30 ,EFL Cup,Fourth round,Home,Brighton,Liverpool,L,2,3
+2024-11-02,15:00 ,Premier League,Matchweek 10,Away,Brighton,Liverpool,L,1,2
+2024-11-09,17:30 ,Premier League,Matchweek 11,Home,Brighton,Manchester City,W,2,1
+2024-11-29,20:00 ,Premier League,Matchweek 13,Home,Brighton,Southampton,D,1,1
+2024-12-05,19:30 ,Premier League,Matchweek 14,Away,Brighton,Fulham,L,1,3
+2024-12-08,14:00 ,Premier League,Matchweek 15,Away,Brighton,Leicester City,D,2,2
+2024-12-15,14:00 ,Premier League,Matchweek 16,Home,Brighton,Crystal Palace,L,1,3
+2024-12-21,15:00 ,Premier League,Matchweek 17,Away,Brighton,West Ham,D,1,1
+2025-01-11,15:00 ,FA Cup,Third round proper,Away,Brighton,Norwich City,W,4,0
+2025-01-16,19:30 ,Premier League,Matchweek 21,Away,Brighton,Ipswich Town,W,2,0
+2025-01-19,14:00 ,Premier League,Matchweek 22,Away,Brighton,Manchester Utd,W,3,1
+2025-01-25,15:00 ,Premier League,Matchweek 23,Home,Brighton,Everton,L,0,1
+2025-02-01,12:30 ,Premier League,Matchweek 24,Away,Brighton,Nott'ham Forest,L,0,7
+2025-02-08,20:00 ,FA Cup,Fourth round proper,Home,Brighton,Chelsea,W,2,1
+2025-02-14,20:00 ,Premier League,Matchweek 25,Home,Brighton,Chelsea,W,3,0
+2025-02-22,15:00 ,Premier League,Matchweek 26,Away,Brighton,Southampton,W,4,0
+2025-03-02,13:45,FA Cup,Fifth round proper,Away,Brighton,Newcastle Utd,W,2,1
+2025-03-08,15:00,Premier League,Matchweek 28,Home,Brighton,Fulham,W,2,1
+2025-03-15,15:00,Premier League,Matchweek 29,Away,Brighton,Manchester City,D,2,2
+2025-03-29,17:15,FA Cup,Quarter-finals,Home,Brighton,Nott'ham Forest,D,0 (3),0 (4)
+2025-04-05,15:00 ,Premier League,Matchweek 31,Away,Brighton,Crystal Palace,L,1,2
+2025-04-12,15:00,Premier League,Matchweek 32,Home,Brighton,Leicester City,D,2,2
+2025-04-26,15:00,Premier League,Matchweek 34,Home,Brighton,West Ham,W,3,2
+2025-05-04,14:00,Premier League,Matchweek 35,Home,Brighton,Newcastle Utd,D,1,1
+2025-05-10,15:00,Premier League,Matchweek 36,Away,Brighton,Wolves,W,2,0
+2025-05-19,20:00,Premier League,Matchweek 37,Home,Brighton,Liverpool,W,3,2
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Brighton,Tottenham,W,4,1
+2024-08-18,16:30,Premier League,Matchweek 1,Home,Chelsea,Manchester City,L,0,2
+2024-08-22,20:00,Conf Lg,Play-off round,Home,Chelsea,ch Servette FC,W,2,0
+2024-08-25,14:00,Premier League,Matchweek 2,Away,Chelsea,Wolves,W,6,2
+2024-08-29,20:30 ,Conf Lg,Play-off round,Away,Chelsea,ch Servette FC,L,1,2
+2024-09-01,13:30,Premier League,Matchweek 3,Home,Chelsea,Crystal Palace,D,1,1
+2024-09-21,12:30,Premier League,Matchweek 5,Away,Chelsea,West Ham,W,3,0
+2024-09-24,19:45,EFL Cup,Third round,Home,Chelsea,Barrow,W,5,0
+2024-10-03,20:00,Conf Lg,League phase,Home,Chelsea,be Gent,W,4,2
+2024-10-06,14:00,Premier League,Matchweek 7,Home,Chelsea,Nott'ham Forest,D,1,1
+2024-10-20,16:30,Premier League,Matchweek 8,Away,Chelsea,Liverpool,L,1,2
+2024-10-24,19:45 ,Conf Lg,League phase,Away,Chelsea,gr Panathinaikos,W,4,1
+2024-10-27,14:00 ,Premier League,Matchweek 9,Home,Chelsea,Newcastle Utd,W,2,1
+2024-10-30,19:45 ,EFL Cup,Fourth round,Away,Chelsea,Newcastle Utd,L,0,2
+2024-11-03,16:30 ,Premier League,Matchweek 10,Away,Chelsea,Manchester Utd,D,1,1
+2024-11-07,20:00 ,Conf Lg,League phase,Home,Chelsea,am FC Noah,W,8,0
+2024-11-23,12:30 ,Premier League,Matchweek 12,Away,Chelsea,Leicester City,W,2,1
+2024-11-28,18:45,Conf Lg,League phase,Away,Chelsea,de Heidenheim,W,2,0
+2024-12-04,19:30 ,Premier League,Matchweek 14,Away,Chelsea,Southampton,W,5,1
+2024-12-08,16:30 ,Premier League,Matchweek 15,Away,Chelsea,Tottenham,W,4,3
+2024-12-12,21:30 ,Conf Lg,League phase,Away,Chelsea,kz Astana FK,W,3,1
+2024-12-19,20:00 ,Conf Lg,League phase,Home,Chelsea,ie Shamrock Rovers,W,5,1
+2024-12-22,14:00 ,Premier League,Matchweek 17,Away,Chelsea,Everton,D,0,0
+2024-12-26,15:00 ,Premier League,Matchweek 18,Home,Chelsea,Fulham,L,1,2
+2024-12-30,19:45 ,Premier League,Matchweek 19,Away,Chelsea,Ipswich Town,L,0,2
+2025-01-04,15:00 ,Premier League,Matchweek 20,Away,Chelsea,Crystal Palace,D,1,1
+2025-01-11,15:00 ,FA Cup,Third round proper,Home,Chelsea,Morecambe,W,5,0
+2025-01-20,20:00 ,Premier League,Matchweek 22,Home,Chelsea,Wolves,W,3,1
+2025-01-25,17:30 ,Premier League,Matchweek 23,Away,Chelsea,Manchester City,L,1,3
+2025-02-03,20:00 ,Premier League,Matchweek 24,Home,Chelsea,West Ham,W,2,1
+2025-02-25,20:15,Premier League,Matchweek 27,Home,Chelsea,Southampton,W,4,0
+2025-03-06,18:45 ,Conf Lg,Round of 16,Away,Chelsea,dk FC Copenhagen,W,2,1
+2025-03-09,14:00,Premier League,Matchweek 28,Home,Chelsea,Leicester City,W,1,0
+2025-03-13,20:00,Conf Lg,Round of 16,Home,Chelsea,dk FC Copenhagen,W,1,0
+2025-04-03,20:00 ,Premier League,Matchweek 30,Home,Chelsea,Tottenham,W,1,0
+2025-04-10,18:45 ,Conf Lg,Quarter-finals,Away,Chelsea,pl Legia Warsaw,W,3,0
+2025-04-13,14:00,Premier League,Matchweek 32,Home,Chelsea,Ipswich Town,D,2,2
+2025-04-17,20:00,Conf Lg,Quarter-finals,Home,Chelsea,pl Legia Warsaw,L,1,2
+2025-04-20,14:00,Premier League,Matchweek 33,Away,Chelsea,Fulham,W,2,1
+2025-04-26,12:30,Premier League,Matchweek 34,Home,Chelsea,Everton,W,1,0
+2025-05-01,21:00 ,Conf Lg,Semi-finals,Away,Chelsea,se Djurgården,W,4,1
+2025-05-04,16:30,Premier League,Matchweek 35,Home,Chelsea,Liverpool,W,3,1
+2025-05-08,20:00,Conf Lg,Semi-finals,Home,Chelsea,se Djurgården,W,1,0
+2025-05-11,12:00,Premier League,Matchweek 36,Away,Chelsea,Newcastle Utd,L,0,2
+2025-05-16,20:15,Premier League,Matchweek 37,Home,Chelsea,Manchester Utd,W,1,0
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Chelsea,Nott'ham Forest,W,1,0
+2025-05-28,21:00 ,Conf Lg,Final,Neutral,Chelsea,es Betis,W,4,1
+2024-08-24,15:00,Premier League,Matchweek 2,Home,Crystal Palace,West Ham,L,0,2
+2024-08-27,20:00,EFL Cup,Second round,Home,Crystal Palace,Norwich City,W,4,0
+2024-09-14,15:00,Premier League,Matchweek 4,Home,Crystal Palace,Leicester City,D,2,2
+2024-09-17,19:45,EFL Cup,Third round,Away,Crystal Palace,QPR,W,2,1
+2024-09-21,17:30,Premier League,Matchweek 5,Home,Crystal Palace,Manchester Utd,D,0,0
+2024-09-28,15:00,Premier League,Matchweek 6,Away,Crystal Palace,Everton,L,1,2
+2024-10-05,12:30,Premier League,Matchweek 7,Home,Crystal Palace,Liverpool,L,0,1
+2024-10-21,20:00,Premier League,Matchweek 8,Away,Crystal Palace,Nott'ham Forest,L,0,1
+2024-10-27,14:00 ,Premier League,Matchweek 9,Home,Crystal Palace,Tottenham,W,1,0
+2024-11-02,17:30 ,Premier League,Matchweek 10,Away,Crystal Palace,Wolves,D,2,2
+2024-11-09,15:00 ,Premier League,Matchweek 11,Home,Crystal Palace,Fulham,L,0,2
+2024-11-30,15:00 ,Premier League,Matchweek 13,Home,Crystal Palace,Newcastle Utd,D,1,1
+2024-12-03,19:30 ,Premier League,Matchweek 14,Away,Crystal Palace,Ipswich Town,W,1,0
+2024-12-07,15:00 ,Premier League,Matchweek 15,Home,Crystal Palace,Manchester City,D,2,2
+2024-12-29,15:00 ,Premier League,Matchweek 19,Home,Crystal Palace,Southampton,W,2,1
+2025-01-12,15:00 ,FA Cup,Third round proper,Home,Crystal Palace,Stockport,W,1,0
+2025-01-15,19:30 ,Premier League,Matchweek 21,Away,Crystal Palace,Leicester City,W,2,0
+2025-01-18,15:00 ,Premier League,Matchweek 22,Away,Crystal Palace,West Ham,W,2,0
+2025-02-02,14:00 ,Premier League,Matchweek 24,Away,Crystal Palace,Manchester Utd,W,2,0
+2025-02-10,19:45 ,FA Cup,Fourth round proper,Away,Crystal Palace,Doncaster,W,2,0
+2025-02-15,17:30 ,Premier League,Matchweek 25,Home,Crystal Palace,Everton,L,1,2
+2025-02-22,15:00 ,Premier League,Matchweek 26,Away,Crystal Palace,Fulham,W,2,0
+2025-03-01,12:15,FA Cup,Fifth round proper,Home,Crystal Palace,Millwall,W,3,1
+2025-03-08,15:00,Premier League,Matchweek 28,Home,Crystal Palace,Ipswich Town,W,1,0
+2025-03-29,12:15,FA Cup,Quarter-finals,Away,Crystal Palace,Fulham,W,3,0
+2025-04-02,19:45 ,Premier League,Matchweek 30,Away,Crystal Palace,Southampton,D,1,1
+2025-04-12,12:30,Premier League,Matchweek 32,Away,Crystal Palace,Manchester City,L,2,5
+2025-04-16,19:30,Premier League,Matchweek 29,Away,Crystal Palace,Newcastle Utd,L,0,5
+2025-05-05,20:00,Premier League,Matchweek 35,Home,Crystal Palace,Nott'ham Forest,D,1,1
+2025-05-11,14:15,Premier League,Matchweek 36,Away,Crystal Palace,Tottenham,W,2,0
+2025-05-17,16:30,FA Cup,Final,Neutral,Crystal Palace,Manchester City,W,1,0
+2025-05-20,20:00,Premier League,Matchweek 37,Home,Crystal Palace,Wolves,W,4,2
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Crystal Palace,Liverpool,D,1,1
+2024-08-24,15:00,Premier League,Matchweek 2,Away,Everton,Tottenham,L,0,4
+2024-08-27,19:45,EFL Cup,Second round,Home,Everton,Doncaster,W,3,0
+2024-09-17,19:45,EFL Cup,Third round,Home,Everton,Southampton,D,1 (5),1 (6)
+2024-09-21,15:00,Premier League,Matchweek 5,Away,Everton,Leicester City,D,1,1
+2024-10-05,17:30,Premier League,Matchweek 7,Home,Everton,Newcastle Utd,D,0,0
+2024-10-19,15:00,Premier League,Matchweek 8,Away,Everton,Ipswich Town,W,2,0
+2024-10-26,17:30,Premier League,Matchweek 9,Home,Everton,Fulham,D,1,1
+2024-11-02,15:00 ,Premier League,Matchweek 10,Away,Everton,Southampton,L,0,1
+2024-11-09,15:00 ,Premier League,Matchweek 11,Away,Everton,West Ham,D,0,0
+2024-12-01,13:30 ,Premier League,Matchweek 13,Away,Everton,Manchester Utd,L,0,4
+2024-12-04,19:30 ,Premier League,Matchweek 14,Home,Everton,Wolves,W,4,0
+2024-12-26,12:30 ,Premier League,Matchweek 18,Away,Everton,Manchester City,D,1,1
+2024-12-29,15:00 ,Premier League,Matchweek 19,Home,Everton,Nott'ham Forest,L,0,2
+2025-01-09,19:45 ,FA Cup,Third round proper,Home,Everton,P'borough Utd,W,2,0
+2025-01-19,14:00 ,Premier League,Matchweek 22,Home,Everton,Tottenham,W,3,2
+2025-02-01,15:00 ,Premier League,Matchweek 24,Home,Everton,Leicester City,W,4,0
+2025-02-12,19:30 ,Premier League,Matchweek 15,Home,Everton,Liverpool,D,2,2
+2025-02-22,12:30 ,Premier League,Matchweek 26,Home,Everton,Manchester Utd,D,2,2
+2025-03-08,20:00,Premier League,Matchweek 28,Away,Everton,Wolves,D,1,1
+2025-03-15,15:00,Premier League,Matchweek 29,Home,Everton,West Ham,D,1,1
+2025-04-02,20:00 ,Premier League,Matchweek 30,Away,Everton,Liverpool,L,0,1
+2025-04-12,15:00,Premier League,Matchweek 32,Away,Everton,Nott'ham Forest,W,1,0
+2025-04-19,15:00,Premier League,Matchweek 33,Home,Everton,Manchester City,L,0,2
+2025-05-03,15:00,Premier League,Matchweek 35,Home,Everton,Ipswich Town,D,2,2
+2025-05-10,15:00,Premier League,Matchweek 36,Away,Everton,Fulham,W,3,1
+2025-05-18,12:00,Premier League,Matchweek 37,Home,Everton,Southampton,W,2,0
+2025-05-25,16:00,Premier League,Matchweek 38,Away,Everton,Newcastle Utd,W,1,0
+2024-08-16,20:00,Premier League,Matchweek 1,Away,Fulham,Manchester Utd,L,0,1
+2024-08-24,15:00,Premier League,Matchweek 2,Home,Fulham,Leicester City,W,2,1
+2024-08-27,20:00,EFL Cup,Second round,Away,Fulham,Birmingham City,W,2,0
+2024-08-31,15:00,Premier League,Matchweek 3,Away,Fulham,Ipswich Town,D,1,1
+2024-09-14,15:00,Premier League,Matchweek 4,Home,Fulham,West Ham,D,1,1
+2024-09-17,19:45,EFL Cup,Third round,Away,Fulham,Preston,D,1 (15),1 (16)
+2024-09-21,15:00,Premier League,Matchweek 5,Home,Fulham,Newcastle Utd,W,3,1
+2024-09-28,15:00,Premier League,Matchweek 6,Away,Fulham,Nott'ham Forest,W,1,0
+2024-10-05,15:00,Premier League,Matchweek 7,Away,Fulham,Manchester City,L,2,3
+2024-11-23,15:00 ,Premier League,Matchweek 12,Home,Fulham,Wolves,L,1,4
+2024-12-01,13:30 ,Premier League,Matchweek 13,Away,Fulham,Tottenham,D,1,1
+2024-12-14,15:00 ,Premier League,Matchweek 16,Away,Fulham,Liverpool,D,2,2
+2024-12-22,14:00 ,Premier League,Matchweek 17,Home,Fulham,Southampton,D,0,0
+2025-01-05,14:00 ,Premier League,Matchweek 20,Home,Fulham,Ipswich Town,D,2,2
+2025-01-09,19:45 ,FA Cup,Third round proper,Home,Fulham,Watford,W,4,1
+2025-01-14,19:30 ,Premier League,Matchweek 21,Away,Fulham,West Ham,L,2,3
+2025-01-18,15:00 ,Premier League,Matchweek 22,Away,Fulham,Leicester City,W,2,0
+2025-01-26,19:00 ,Premier League,Matchweek 23,Home,Fulham,Manchester Utd,L,0,1
+2025-02-01,15:00 ,Premier League,Matchweek 24,Away,Fulham,Newcastle Utd,W,2,1
+2025-02-08,15:00 ,FA Cup,Fourth round proper,Away,Fulham,Wigan Athletic,W,2,1
+2025-02-15,15:00 ,Premier League,Matchweek 25,Home,Fulham,Nott'ham Forest,W,2,1
+2025-02-25,19:30,Premier League,Matchweek 27,Away,Fulham,Wolves,W,2,1
+2025-03-02,16:30,FA Cup,Fifth round proper,Away,Fulham,Manchester Utd,D,1 (4),1 (3)
+2025-03-16,13:30,Premier League,Matchweek 29,Home,Fulham,Tottenham,W,2,0
+2025-04-06,14:00,Premier League,Matchweek 31,Home,Fulham,Liverpool,W,3,2
+2025-04-26,15:00,Premier League,Matchweek 34,Away,Fulham,Southampton,W,2,1
+2025-05-25,16:00,Premier League,Matchweek 38,Home,Fulham,Manchester City,L,0,2
+2024-08-17,12:30,Premier League,Matchweek 1,Home,Ipswich Town,Liverpool,L,0,2
+2024-08-24,15:00,Premier League,Matchweek 2,Away,Ipswich Town,Manchester City,L,1,4
+2024-08-28,19:45,EFL Cup,Second round,Away,Ipswich Town,AFC Wimbledon,D,2 (2),2 (4)
+2024-09-21,15:00,Premier League,Matchweek 5,Away,Ipswich Town,Southampton,D,1,1
+2024-10-05,15:00,Premier League,Matchweek 7,Away,Ipswich Town,West Ham,L,1,4
+2024-11-02,15:00 ,Premier League,Matchweek 10,Home,Ipswich Town,Leicester City,D,1,1
+2024-11-10,14:00 ,Premier League,Matchweek 11,Away,Ipswich Town,Tottenham,W,2,1
+2024-11-24,16:30 ,Premier League,Matchweek 12,Home,Ipswich Town,Manchester Utd,D,1,1
+2024-11-30,15:00 ,Premier League,Matchweek 13,Away,Ipswich Town,Nott'ham Forest,L,0,1
+2024-12-14,15:00 ,Premier League,Matchweek 16,Away,Ipswich Town,Wolves,W,2,1
+2024-12-21,15:00 ,Premier League,Matchweek 17,Home,Ipswich Town,Newcastle Utd,L,0,4
+2025-01-12,15:00 ,FA Cup,Third round proper,Home,Ipswich Town,Bristol Rovers,W,3,0
+2025-01-19,16:30 ,Premier League,Matchweek 22,Home,Ipswich Town,Manchester City,L,0,6
+2025-01-25,15:00 ,Premier League,Matchweek 23,Away,Ipswich Town,Liverpool,L,1,4
+2025-02-01,15:00 ,Premier League,Matchweek 24,Home,Ipswich Town,Southampton,L,1,2
+2025-02-08,15:00 ,FA Cup,Fourth round proper,Away,Ipswich Town,Coventry City,W,4,1
+2025-02-22,15:00 ,Premier League,Matchweek 26,Home,Ipswich Town,Tottenham,L,1,4
+2025-02-26,19:30,Premier League,Matchweek 27,Away,Ipswich Town,Manchester Utd,L,2,3
+2025-03-03,19:30,FA Cup,Fifth round proper,Away,Ipswich Town,Nott'ham Forest,D,1 (4),1 (5)
+2025-03-15,15:00,Premier League,Matchweek 29,Home,Ipswich Town,Nott'ham Forest,L,2,4
+2025-04-05,15:00 ,Premier League,Matchweek 31,Home,Ipswich Town,Wolves,L,1,2
+2025-04-26,15:00,Premier League,Matchweek 34,Away,Ipswich Town,Newcastle Utd,L,0,3
+2025-05-18,15:00,Premier League,Matchweek 37,Away,Ipswich Town,Leicester City,L,0,2
+2025-05-25,16:00,Premier League,Matchweek 38,Home,Ipswich Town,West Ham,L,1,3
+2024-08-19,20:00,Premier League,Matchweek 1,Home,Leicester City,Tottenham,D,1,1
+2024-08-27,19:45,EFL Cup,Second round,Home,Leicester City,Tranmere Rovers,W,4,0
+2024-09-24,19:45,EFL Cup,Third round,Away,Leicester City,Walsall,D,0 (3),0 (0)
+2024-10-19,15:00,Premier League,Matchweek 8,Away,Leicester City,Southampton,W,3,2
+2024-10-25,20:00,Premier League,Matchweek 9,Home,Leicester City,Nott'ham Forest,L,1,3
+2024-10-30,19:45 ,EFL Cup,Fourth round,Away,Leicester City,Manchester Utd,L,2,5
+2024-11-10,14:00 ,Premier League,Matchweek 11,Away,Leicester City,Manchester Utd,L,0,3
+2024-12-03,20:15 ,Premier League,Matchweek 14,Home,Leicester City,West Ham,W,3,1
+2024-12-14,15:00 ,Premier League,Matchweek 16,Away,Leicester City,Newcastle Utd,L,0,4
+2024-12-22,14:00 ,Premier League,Matchweek 17,Home,Leicester City,Wolves,L,0,3
+2024-12-26,20:00 ,Premier League,Matchweek 18,Away,Leicester City,Liverpool,L,1,3
+2024-12-29,14:30 ,Premier League,Matchweek 19,Home,Leicester City,Manchester City,L,0,2
+2025-01-11,14:00 ,FA Cup,Third round proper,Home,Leicester City,QPR,W,6,2
+2025-01-26,14:00 ,Premier League,Matchweek 23,Away,Leicester City,Tottenham,W,2,1
+2025-02-07,20:00 ,FA Cup,Fourth round proper,Away,Leicester City,Manchester Utd,L,1,2
+2025-02-27,20:00,Premier League,Matchweek 27,Away,Leicester City,West Ham,L,0,2
+2025-03-16,19:00,Premier League,Matchweek 29,Home,Leicester City,Manchester Utd,L,0,3
+2025-04-02,19:45 ,Premier League,Matchweek 30,Away,Leicester City,Manchester City,L,0,2
+2025-04-07,20:00,Premier League,Matchweek 31,Home,Leicester City,Newcastle Utd,L,0,3
+2025-04-20,16:30,Premier League,Matchweek 33,Home,Leicester City,Liverpool,L,0,1
+2025-04-26,15:00,Premier League,Matchweek 34,Away,Leicester City,Wolves,L,0,3
+2025-05-03,15:00,Premier League,Matchweek 35,Home,Leicester City,Southampton,W,2,0
+2025-05-11,14:15,Premier League,Matchweek 36,Away,Leicester City,Nott'ham Forest,D,2,2
+2024-09-01,16:00,Premier League,Matchweek 3,Away,Liverpool,Manchester Utd,W,3,0
+2024-09-14,15:00,Premier League,Matchweek 4,Home,Liverpool,Nott'ham Forest,L,0,1
+2024-09-17,21:00 ,Champions Lg,League phase,Away,Liverpool,it Milan,W,3,1
+2024-09-25,20:00,EFL Cup,Third round,Home,Liverpool,West Ham,W,5,1
+2024-09-28,17:30,Premier League,Matchweek 6,Away,Liverpool,Wolves,W,2,1
+2024-10-02,20:00,Champions Lg,League phase,Home,Liverpool,it Bologna,W,2,0
+2024-10-23,21:00 ,Champions Lg,League phase,Away,Liverpool,de RB Leipzig,W,1,0
+2024-11-05,20:00 ,Champions Lg,League phase,Home,Liverpool,de Leverkusen,W,4,0
+2024-11-24,14:00 ,Premier League,Matchweek 12,Away,Liverpool,Southampton,W,3,2
+2024-11-27,20:00 ,Champions Lg,League phase,Home,Liverpool,es Real Madrid,W,2,0
+2024-12-01,16:00 ,Premier League,Matchweek 13,Home,Liverpool,Manchester City,W,2,0
+2024-12-04,19:30 ,Premier League,Matchweek 14,Away,Liverpool,Newcastle Utd,D,3,3
+2024-12-10,18:45,Champions Lg,League phase,Away,Liverpool,es Girona,W,1,0
+2024-12-18,20:00 ,EFL Cup,Quarter-finals,Away,Liverpool,Southampton,W,2,1
+2024-12-22,16:30 ,Premier League,Matchweek 17,Away,Liverpool,Tottenham,W,6,3
+2024-12-29,17:15 ,Premier League,Matchweek 19,Away,Liverpool,West Ham,W,5,0
+2025-01-05,16:30 ,Premier League,Matchweek 20,Home,Liverpool,Manchester Utd,D,2,2
+2025-01-08,20:00 ,EFL Cup,Semi-finals,Away,Liverpool,Tottenham,L,0,1
+2025-01-11,12:15 ,FA Cup,Third round proper,Home,Liverpool,Acc'ton Stanley,W,4,0
+2025-01-14,20:00 ,Premier League,Matchweek 21,Away,Liverpool,Nott'ham Forest,D,1,1
+2025-01-21,20:00 ,Champions Lg,League phase,Home,Liverpool,fr Lille,W,2,1
+2025-01-29,21:00,Champions Lg,League phase,Away,Liverpool,nl PSV Eindhoven,L,2,3
+2025-02-06,20:00 ,EFL Cup,Semi-finals,Home,Liverpool,Tottenham,W,4,0
+2025-02-09,15:00 ,FA Cup,Fourth round proper,Away,Liverpool,Plymouth Argyle,L,0,1
+2025-02-16,14:00 ,Premier League,Matchweek 25,Home,Liverpool,Wolves,W,2,1
+2025-02-23,16:30,Premier League,Matchweek 26,Away,Liverpool,Manchester City,W,2,0
+2025-02-26,20:15,Premier League,Matchweek 27,Home,Liverpool,Newcastle Utd,W,2,0
+2025-03-05,21:00 ,Champions Lg,Round of 16,Away,Liverpool,fr Paris S-G,W,1,0
+2025-03-08,15:00,Premier League,Matchweek 28,Home,Liverpool,Southampton,W,3,1
+2025-03-11,20:00,Champions Lg,Round of 16,Home,Liverpool,fr Paris S-G,L,0 (1),1 (4)
+2025-03-16,16:30,EFL Cup,Final,Neutral,Liverpool,Newcastle Utd,L,1,2
+2025-04-13,14:00,Premier League,Matchweek 32,Home,Liverpool,West Ham,W,2,1
+2025-04-27,16:30,Premier League,Matchweek 34,Home,Liverpool,Tottenham,W,5,1
+2024-08-10,15:00,FA Community Shield,FA Community Shield,Home,Manchester City,Manchester Utd,D,1 (7),1 (6)
+2024-08-31,17:30,Premier League,Matchweek 3,Away,Manchester City,West Ham,W,3,1
+2024-09-18,20:00,Champions Lg,League phase,Home,Manchester City,it Inter,D,0,0
+2024-09-24,19:45,EFL Cup,Third round,Home,Manchester City,Watford,W,2,1
+2024-09-28,12:30,Premier League,Matchweek 6,Away,Manchester City,Newcastle Utd,D,1,1
+2024-10-01,21:00 ,Champions Lg,League phase,Away,Manchester City,sk Slovan Bratislava,W,4,0
+2024-10-20,14:00,Premier League,Matchweek 8,Away,Manchester City,Wolves,W,2,1
+2024-10-23,20:00,Champions Lg,League phase,Home,Manchester City,cz Sparta Prague,W,5,0
+2024-10-26,15:00,Premier League,Matchweek 9,Home,Manchester City,Southampton,W,1,0
+2024-10-30,20:15 ,EFL Cup,Fourth round,Away,Manchester City,Tottenham,L,1,2
+2024-11-05,20:00 ,Champions Lg,League phase,Away,Manchester City,pt Sporting CP,L,1,4
+2024-11-23,17:30 ,Premier League,Matchweek 12,Home,Manchester City,Tottenham,L,0,4
+2024-11-26,20:00 ,Champions Lg,League phase,Home,Manchester City,nl Feyenoord,D,3,3
+2024-12-04,19:30 ,Premier League,Matchweek 14,Home,Manchester City,Nott'ham Forest,W,3,0
+2024-12-11,21:00,Champions Lg,League phase,Away,Manchester City,it Juventus,L,0,2
+2024-12-15,16:30 ,Premier League,Matchweek 16,Home,Manchester City,Manchester Utd,L,1,2
+2025-01-04,15:00 ,Premier League,Matchweek 20,Home,Manchester City,West Ham,W,4,1
+2025-01-11,17:45 ,FA Cup,Third round proper,Home,Manchester City,Salford City,W,8,0
+2025-01-22,21:00,Champions Lg,League phase,Away,Manchester City,fr Paris S-G,L,2,4
+2025-01-29,20:00 ,Champions Lg,League phase,Home,Manchester City,be Club Brugge,W,3,1
+2025-02-08,12:15 ,FA Cup,Fourth round proper,Away,Manchester City,Leyton Orient,W,2,1
+2025-02-11,20:00 ,Champions Lg,Knockout phase play-offs,Home,Manchester City,es Real Madrid,L,2,3
+2025-02-15,15:00 ,Premier League,Matchweek 25,Home,Manchester City,Newcastle Utd,W,4,0
+2025-02-19,21:00,Champions Lg,Knockout phase play-offs,Away,Manchester City,es Real Madrid,L,1,3
+2025-02-26,19:30,Premier League,Matchweek 27,Away,Manchester City,Tottenham,W,1,0
+2025-03-01,17:45,FA Cup,Fifth round proper,Home,Manchester City,Plymouth Argyle,W,3,1
+2025-03-08,12:30,Premier League,Matchweek 28,Away,Manchester City,Nott'ham Forest,L,0,1
+2025-04-06,16:30,Premier League,Matchweek 31,Away,Manchester City,Manchester Utd,D,0,0
+2025-04-27,16:30,FA Cup,Semi-finals,Away,Manchester City,Nott'ham Forest,W,2,0
+2025-05-02,20:00,Premier League,Matchweek 35,Home,Manchester City,Wolves,W,1,0
+2025-05-10,15:00,Premier League,Matchweek 36,Away,Manchester City,Southampton,D,0,0
+2024-09-14,12:30,Premier League,Matchweek 4,Away,Manchester Utd,Southampton,W,3,0
+2024-09-17,20:00,EFL Cup,Third round,Home,Manchester Utd,Barnsley,W,7,0
+2024-09-25,20:00,Europa Lg,League phase,Home,Manchester Utd,nl Twente,D,1,1
+2024-09-29,16:30,Premier League,Matchweek 6,Home,Manchester Utd,Tottenham,L,0,3
+2024-10-03,20:00,Europa Lg,League phase,Away,Manchester Utd,pt Porto,D,3,3
+2024-10-24,22:00 ,Europa Lg,League phase,Away,Manchester Utd,tr Fenerbahçe,D,1,1
+2024-10-27,14:00 ,Premier League,Matchweek 9,Away,Manchester Utd,West Ham,L,1,2
+2024-11-07,20:00 ,Europa Lg,League phase,Home,Manchester Utd,gr PAOK,W,2,0
+2024-11-28,20:00 ,Europa Lg,League phase,Home,Manchester Utd,no Bodø/Glimt,W,3,2
+2024-12-07,17:30 ,Premier League,Matchweek 15,Home,Manchester Utd,Nott'ham Forest,L,2,3
+2024-12-12,18:45,Europa Lg,League phase,Away,Manchester Utd,cz Viktoria Plzeň,W,2,1
+2024-12-19,20:00 ,EFL Cup,Quarter-finals,Away,Manchester Utd,Tottenham,L,3,4
+2024-12-26,17:30 ,Premier League,Matchweek 18,Away,Manchester Utd,Wolves,L,0,2
+2024-12-30,20:00 ,Premier League,Matchweek 19,Home,Manchester Utd,Newcastle Utd,L,0,2
+2025-01-16,20:00 ,Premier League,Matchweek 21,Home,Manchester Utd,Southampton,W,3,1
+2025-01-23,20:00 ,Europa Lg,League phase,Home,Manchester Utd,sct Rangers,W,2,1
+2025-01-30,22:00 ,Europa Lg,League phase,Away,Manchester Utd,ro FCSB,W,2,0
+2025-02-16,16:30 ,Premier League,Matchweek 25,Away,Manchester Utd,Tottenham,L,0,1
+2025-03-06,18:45 ,Europa Lg,Round of 16,Away,Manchester Utd,es Real Sociedad,D,1,1
+2025-03-13,20:00,Europa Lg,Round of 16,Home,Manchester Utd,es Real Sociedad,W,4,1
+2025-04-01,20:00 ,Premier League,Matchweek 30,Away,Manchester Utd,Nott'ham Forest,L,0,1
+2025-04-10,21:00 ,Europa Lg,Quarter-finals,Away,Manchester Utd,fr Lyon,D,2,2
+2025-04-13,16:30,Premier League,Matchweek 32,Away,Manchester Utd,Newcastle Utd,L,1,4
+2025-04-17,20:00,Europa Lg,Quarter-finals,Home,Manchester Utd,fr Lyon,W,5,4
+2025-04-20,14:00,Premier League,Matchweek 33,Home,Manchester Utd,Wolves,L,0,1
+2025-05-01,21:00 ,Europa Lg,Semi-finals,Away,Manchester Utd,es Athletic Club,W,3,0
+2025-05-08,20:00,Europa Lg,Semi-finals,Home,Manchester Utd,es Athletic Club,W,4,1
+2025-05-11,14:15,Premier League,Matchweek 36,Home,Manchester Utd,West Ham,L,0,2
+2025-05-21,21:00 ,Europa Lg,Final,Neutral,Manchester Utd,eng Tottenham,L,0,1
+2024-08-17,15:00,Premier League,Matchweek 1,Home,Newcastle Utd,Southampton,W,1,0
+2024-08-28,20:00,EFL Cup,Second round,Away,Newcastle Utd,Nott'ham Forest,D,1 (4),1 (3)
+2024-09-01,13:30,Premier League,Matchweek 3,Home,Newcastle Utd,Tottenham,W,2,1
+2024-09-15,16:30,Premier League,Matchweek 4,Away,Newcastle Utd,Wolves,W,2,1
+2024-10-01,19:45,EFL Cup,Third round,Home,Newcastle Utd,AFC Wimbledon,W,1,0
+2024-11-10,14:00 ,Premier League,Matchweek 11,Away,Newcastle Utd,Nott'ham Forest,W,3,1
+2024-11-25,20:00 ,Premier League,Matchweek 12,Home,Newcastle Utd,West Ham,L,0,2
+2025-01-04,12:30 ,Premier League,Matchweek 20,Away,Newcastle Utd,Tottenham,W,2,1
+2025-01-12,15:00 ,FA Cup,Third round proper,Home,Newcastle Utd,Bromley,W,3,1
+2025-01-15,19:30 ,Premier League,Matchweek 21,Home,Newcastle Utd,Wolves,W,3,0
+2025-01-25,15:00 ,Premier League,Matchweek 23,Away,Newcastle Utd,Southampton,W,3,1
+2025-02-08,17:45 ,FA Cup,Fourth round proper,Away,Newcastle Utd,Birmingham City,W,3,2
+2025-02-23,14:00,Premier League,Matchweek 26,Home,Newcastle Utd,Nott'ham Forest,W,4,3
+2025-03-10,20:00,Premier League,Matchweek 28,Away,Newcastle Utd,West Ham,W,1,0
+2024-08-24,15:00,Premier League,Matchweek 2,Away,Nott'ham Forest,Southampton,W,1,0
+2024-08-31,15:00,Premier League,Matchweek 3,Home,Nott'ham Forest,Wolves,D,1,1
+2024-11-02,15:00 ,Premier League,Matchweek 10,Home,Nott'ham Forest,West Ham,W,3,0
+2024-12-26,15:00 ,Premier League,Matchweek 18,Home,Nott'ham Forest,Tottenham,W,1,0
+2025-01-06,20:00 ,Premier League,Matchweek 20,Away,Nott'ham Forest,Wolves,W,3,0
+2025-01-11,15:00 ,FA Cup,Third round proper,Home,Nott'ham Forest,Luton Town,W,2,0
+2025-01-19,14:00 ,Premier League,Matchweek 22,Home,Nott'ham Forest,Southampton,W,3,2
+2025-02-11,20:00 ,FA Cup,Fourth round proper,Away,Nott'ham Forest,Exeter City,D,2 (4),2 (2)
+2025-04-21,20:00,Premier League,Matchweek 33,Away,Nott'ham Forest,Tottenham,W,2,1
+2025-05-18,14:15,Premier League,Matchweek 37,Away,Nott'ham Forest,West Ham,W,2,1
+2024-08-28,19:45,EFL Cup,Second round,Away,Southampton,Cardiff City,W,5,3
+2024-10-29,19:45 ,EFL Cup,Fourth round,Home,Southampton,Stoke City,W,3,2
+2024-11-09,15:00 ,Premier League,Matchweek 11,Away,Southampton,Wolves,L,0,2
+2024-12-15,19:00 ,Premier League,Matchweek 16,Home,Southampton,Tottenham,L,0,5
+2024-12-26,15:00 ,Premier League,Matchweek 18,Home,Southampton,West Ham,L,0,1
+2025-01-12,16:30 ,FA Cup,Third round proper,Home,Southampton,Swansea City,W,3,0
+2025-02-08,15:00 ,FA Cup,Fourth round proper,Home,Southampton,Burnley,L,0,1
+2025-03-15,15:00,Premier League,Matchweek 29,Home,Southampton,Wolves,L,1,2
+2025-04-06,14:00,Premier League,Matchweek 31,Away,Southampton,Tottenham,L,1,3
+2025-04-19,15:00,Premier League,Matchweek 33,Away,Southampton,West Ham,D,1,1
+2024-09-18,20:00,EFL Cup,Third round,Away,Tottenham,Coventry City,W,2,1
+2024-09-26,20:00,Europa Lg,League phase,Home,Tottenham,az Qarabağ,W,3,0
+2024-10-03,18:45 ,Europa Lg,League phase,Away,Tottenham,hu Ferencváros,W,2,1
+2024-10-19,12:30,Premier League,Matchweek 8,Home,Tottenham,West Ham,W,4,1
+2024-10-24,20:00,Europa Lg,League phase,Home,Tottenham,nl AZ Alkmaar,W,1,0
+2024-11-07,20:45 ,Europa Lg,League phase,Away,Tottenham,tr Galatasaray,L,2,3
+2024-11-28,20:00 ,Europa Lg,League phase,Home,Tottenham,it Roma,D,2,2
+2024-12-12,20:00 ,Europa Lg,League phase,Away,Tottenham,sct Rangers,D,1,1
+2024-12-29,15:00 ,Premier League,Matchweek 19,Home,Tottenham,Wolves,D,2,2
+2025-01-12,12:30 ,FA Cup,Third round proper,Away,Tottenham,Tamworth,W,3,0
+2025-01-23,18:45,Europa Lg,League phase,Away,Tottenham,de Hoffenheim,W,3,2
+2025-01-30,20:00 ,Europa Lg,League phase,Home,Tottenham,se Elfsborg,W,3,0
+2025-03-06,18:45 ,Europa Lg,Round of 16,Away,Tottenham,nl AZ Alkmaar,L,0,1
+2025-03-13,20:00,Europa Lg,Round of 16,Home,Tottenham,nl AZ Alkmaar,W,3,1
+2025-04-10,20:00,Europa Lg,Quarter-finals,Home,Tottenham,de Eint Frankfurt,D,1,1
+2025-04-13,14:00,Premier League,Matchweek 32,Away,Tottenham,Wolves,L,2,4
+2025-04-17,21:00 ,Europa Lg,Quarter-finals,Away,Tottenham,de Eint Frankfurt,W,1,0
+2025-05-01,20:00,Europa Lg,Semi-finals,Home,Tottenham,no Bodø/Glimt,W,3,1
+2025-05-04,14:00,Premier League,Matchweek 35,Away,Tottenham,West Ham,D,1,1
+2025-05-08,21:00 ,Europa Lg,Semi-finals,Away,Tottenham,no Bodø/Glimt,W,2,0
+2025-05-21,21:00 ,Europa Lg,Final,Neutral,Tottenham,eng Manchester Utd,W,1,0
+2024-12-09,20:00 ,Premier League,Matchweek 15,Home,West Ham,Wolves,W,2,1
+2025-04-01,19:45 ,Premier League,Matchweek 30,Away,West Ham,Wolves,L,0,1
+2024-08-28,19:30,EFL Cup,Second round,Home,Wolves,Burnley,W,2,0
+2025-01-11,12:00 ,FA Cup,Third round proper,Away,Wolves,Bristol City,W,2,1
+2025-02-09,12:30 ,FA Cup,Fourth round proper,Away,Wolves,Blackburn,W,2,0

@@ -1,1 +1,4 @@
 chromedriver.exe
+.env
+.env_example
+notebooks/04_postgresql.ipynb
